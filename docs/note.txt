@@ -1,0 +1,60 @@
+Materi Video :
+00:00:00 - Pendahuluan
+00:02:56 - Pengenalan JavaScript
+00:14:56 - Program Hello World
+00:24:56 - Komentar
+00:30:13 - Tipe Data Number
+00:36:34 - Tipe Data Boolean
+00:39:10 - Tipe Data String
+00:51:05 - Variable
+01:12:38 - Operator Matematika
+01:26:00 - Operator Perbandingan
+01:31:39 - Operator Logika
+01:39:20 - Console
+01:46:56 - String Template
+01:58:36 - Konversi String dan Number
+02:13:30 - Tipe Data Array
+02:32:02 - Tipe Data Object
+02:43:50 - If Expression
+02:55:41 - Popup
+03:03:17 - Undefined
+03:11:19 - Null
+03:14:47 - Switch Expression
+03:20:44 - Operator typeof
+03:24:59 - Operator in
+03:31:23 - Ternary Operator
+03:36:17 - Nullish Coalescing Operator
+03:41:43 - Optional Chaining
+03:49:32 - Falsy dan Truthy
+03:56:54 - Operator Logika di Non Boolean
+04:06:20 - For Loop
+04:14:28 - While Loop
+04:16:35 - Do While Loop
+04:20:09 - Break dan Continue
+04:26:18 - Label
+04:32:38 - For In
+04:37:54 - For Of
+04:42:42 - With Statement
+04:49:29 - Function
+04:56:05 - Function Parameter
+05:01:13 - Function Return Value
+05:15:59 - Optional Parameter
+05:20:10 - Default Parameter
+05:24:56 - Rest Parameter
+05:38:12 - Function Sebagai Value
+05:44:44 - Anonymous Function
+05:51:35 - Function dalam Function
+05:54:50 - Scope
+06:06:36 - Recursive Function
+06:15:34 - Function GEnerator
+06:28:17 - Arrow Function
+06:40:56 - Closure
+06:47:49 - Object Method
+06:52:29 - Kata Kunci this
+06:59:27 - Arrow Function di Object
+07:04:10 - Getter dan Setter
+07:12:36 - Masalah Variable var
+07:18:57 - Destructuring
+07:39:30 - Strict Mode
+07:46:05 - Debugger
+07:59:59 - Materi Selanjutnya
