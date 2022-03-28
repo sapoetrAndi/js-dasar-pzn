@@ -58,3 +58,6 @@ Materi Video :
 07:39:30 - Strict Mode
 07:46:05 - Debugger
 07:59:59 - Materi Selanjutnya
+
+docs:
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1ZFR3ZWcTNQa1JOc0xUSnhCTF9nSnQ0Yk5RQXxBQ3Jtc0ttdldJQ05aS1Z1TDBVTVpDc1NMdnhCTkxXbmlSWGp0OFBURVIxNGJPSFcyV3pWSW9mNndoSGVCSmhjdURiTkRzR3RtQWRPN1Fab3BWUG9YWThGY2VHRURyRUJCZGRibHFXVlk0TWEwMjgwV1FNNmJYUQ&q=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1dTIkYD_keBljJS78WxU-3ZneJDLdWt5nReO2CUXfFKg%2Fedit%3Fusp%3Dsharing
